@@ -1,16 +1,4 @@
-# okazan2
+An AI powered voice assistant created in Flutter that caters to the needs of the visually impaired and elders.
+Provides VoiceAutomated features like calling, health tracking and alarming, emergency calling and basic entertainment. 
+It is based on Neural Networks, Machine Learning and Speech Recognition technologies.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
