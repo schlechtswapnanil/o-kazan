@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501681871535",
+    "project_id": "o-kazan",
+    "storage_bucket": "o-kazan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501681871535:android:9e095ca3b3ea02ef11925a",
+        "android_client_info": {
+          "package_name": "com.example.okazan2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501681871535-hvk5p390404s4ho83n4i2ft5pu6m0oaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLo90oV_7g4OpUVsxjUiET2JAMD_WixvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501681871535-hvk5p390404s4ho83n4i2ft5pu6m0oaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
